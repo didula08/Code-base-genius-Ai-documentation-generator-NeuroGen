@@ -1,0 +1,26 @@
+{
+  "outline": [
+    "# Click",
+    "## A Simple Example",
+    "## Donate",
+    "## Contributing"
+  ],
+  "summaries": [
+    {
+      "title": "# Click",
+      "summary": "Click is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary. It's the \"Command Line Interface Creation Kit\". It's highly configurable but comes with sensible defaults out of the box. It aims to make the"
+    },
+    {
+      "title": "## A Simple Example",
+      "summary": "```python import click @click.command() @click.option(\"--count\", default=1, help=\"Number of greetings.\") @click.option(\"--name\", prompt=\"Your name\", help=\"The person to greet.\") def hello(count, name):"
+    },
+    {
+      "title": "## Donate",
+      "summary": "The Pallets organization develops and supports Click and other"
+    },
+    {
+      "title": "## Contributing",
+      "summary": "See our [detailed contributing"
+    }
+  ]
+}
